@@ -267,9 +267,9 @@ qrcode==7.3.1 \
 QtPy==2.0.1 \
     --hash=sha256:adfd073ffbd2de81dc7aaa0b983499ef5c59c96adcfdcc9dea60d42ca885eb8f \
     --hash=sha256:d93f2c98e97387fcc9d623d509772af5b6c15ab9d8f9f4c5dfbad9a73ad34812
-setuptools==61.3.1 \
-    --hash=sha256:41aface2e85b517c3a466b4689b8055c02cd2e623461f09af7d93f3da65c4709 \
-    --hash=sha256:88fafba4abc2f047e08a188fd4bbc10b0e464592c37b514c19f8f8f88d94450b
+setuptools==65.5.1 \
+    --hash=sha256:d0b9a8433464d5800cbe05094acf5c6d52a91bfac9b52bcfc4d41382be5d5d31 \
+    --hash=sha256:e197a19aa8ec9722928f2206f8de752def0e4c9fc6953527360d1c36d94ddb2f
 wheel==0.37.1 \
     --hash=sha256:4bdcd7d840138086126cd09254dc6195fb4fc6f01c050a1d7236f2630db1d22a \
     --hash=sha256:e9a504e793efbca1b8e0e9cb979a249cf4a0a7b5b8c9e8b65a5e39d49529c1c4
